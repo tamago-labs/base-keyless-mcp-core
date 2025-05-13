@@ -60,7 +60,7 @@ const HowItWorks = () => {
       "command": "npx",
       "args": [
         "-y",
-        "base-serverless-mcp",
+        "base-keyless-mcp",
         "--base_access_key=YOUR_ACCESS_KEY", 
         "--base_network=mainnet"
       ],
